@@ -94,21 +94,12 @@
 
 ## 主要人员
 
-<<<<<<< HEAD
  **教师** | - | - | - |  -
 --- | --- | --- | --- | ---
  [俞俊](http://camalab.hdu.edu.cn/people/jun_yu/index.html) | [高飞](http://camalab.hdu.edu.cn/people/fei_gao/index.html) | [谭敏](http://camalab.hdu.edu.cn/people/min_tan/index.html) | [余宙](http://camalab.hdu.edu.cn/people/zhou_yu/index.html)  | 朱素果 
  **助教** |  |  |  |  |  
  [罗宇矗](http://www.luoyuchu.com/) | 钱哲琦 | [朱朝阳](http://chaoyangzhu.com/) | 项晨钞 | 施圣洁 
  张海超 | 孟宣彤 | 郑光剑 | 吴炜晨 |  
-=======
-| **教师** |  |  |  |  | 
-| --- | --- | --- | --- | --- | --- |
-| [俞俊](http://camalab.hdu.edu.cn/people/jun_yu/index.html) | [高飞](http://camalab.hdu.edu.cn/people/fei_gao/index.html) | [谭敏](http://camalab.hdu.edu.cn/people/min_tan/index.html) | [余宙](http://camalab.hdu.edu.cn/people/zhou_yu/index.html)  | 朱素果 |
-| **助教** |  |  |  |  |  |
-| [罗宇矗](http://www.luoyuchu.com/) | 钱哲琦 | [朱朝阳](http://chaoyangzhu.com/) | 项晨钞 | 施圣洁 |
-| 张海超 | 孟宣彤 | 郑光剑 | 吴炜晨 |  |
->>>>>>> 367e74c3c92eea3e0659322436f8a55cf4df4b91
 
 
 
