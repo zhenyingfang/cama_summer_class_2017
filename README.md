@@ -1,7 +1,5 @@
 # CAMA-LAB 机器学习暑期研讨班（2017）
 
-[toc]
-
 ## 介绍
 - 面向对象：准研一学生 + 大一、大二本科生
 - 场地：杭电东校区
@@ -24,9 +22,8 @@
 ## 整体内容安排（暂定）
 
 ### 机器学习
-第一周：热身
-
-- Python编程基础
+#### [第一周：热身](Week_1/README.md)
+- Python 编程基础
 - 图像表示：
   - 矩阵、颜色空间
   - 图像特征：像素值、颜色直方图、梯度直方图、LBP
@@ -37,21 +34,18 @@
   - 测度：欧式距离、街区距离、范数、Loss
   - 作业：波士顿房价预测
 
-第二周：分类
-
+#### 第二周：分类
 - 算法：k-NN, Logistic Regression, 决策树
 - 作业：
     - MNIST 手写数字识别、CIFAR-10 图像分类
     - 采用第一周的特征 + 第二周的方法（多种组合，对比结果）
 
-第三周：经典算法
-
+#### 第三周：经典算法
 - 支撑向量机 SVM《理解SVM的三层境界》
 - 图像特征：, SIFT, Visual BoW,
 - 作业：收入预测、CIFAR-10 图像分类
 
-第四周：无监督特征学习（Unsupervised Feature Learning, Manifold Learning）
-
+#### 第四周：无监督特征学习（Unsupervised Feature Learning, Manifold Learning）
 - Andrew Ng 论文
 - 聚类：K-means, K-means++
 - 降维：PCA, ICA, ZCA, LLE, AE
@@ -100,13 +94,21 @@
 
 ## 主要人员
 
-| 名单 |  |  |  |  | 
-| :-: | :-: | :-: | :-: | :-: | :-: |
+<<<<<<< HEAD
+ **教师** | - | - | - |  -
+--- | --- | --- | --- | ---
+ [俞俊](http://camalab.hdu.edu.cn/people/jun_yu/index.html) | [高飞](http://camalab.hdu.edu.cn/people/fei_gao/index.html) | [谭敏](http://camalab.hdu.edu.cn/people/min_tan/index.html) | [余宙](http://camalab.hdu.edu.cn/people/zhou_yu/index.html)  | 朱素果 
+ **助教** |  |  |  |  |  
+ [罗宇矗](http://www.luoyuchu.com/) | 钱哲琦 | [朱朝阳](http://chaoyangzhu.com/) | 项晨钞 | 施圣洁 
+ 张海超 | 孟宣彤 | 郑光剑 | 吴炜晨 |  
+=======
 | **教师** |  |  |  |  | 
+| --- | --- | --- | --- | --- | --- |
 | [俞俊](http://camalab.hdu.edu.cn/people/jun_yu/index.html) | [高飞](http://camalab.hdu.edu.cn/people/fei_gao/index.html) | [谭敏](http://camalab.hdu.edu.cn/people/min_tan/index.html) | [余宙](http://camalab.hdu.edu.cn/people/zhou_yu/index.html)  | 朱素果 |
 | **助教** |  |  |  |  |  |
 | [罗宇矗](http://www.luoyuchu.com/) | 钱哲琦 | [朱朝阳](http://chaoyangzhu.com/) | 项晨钞 | 施圣洁 |
 | 张海超 | 孟宣彤 | 郑光剑 | 吴炜晨 |  |
+>>>>>>> 367e74c3c92eea3e0659322436f8a55cf4df4b91
 
 
 
