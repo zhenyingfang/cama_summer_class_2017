@@ -14,7 +14,7 @@
 之后还需要初步掌握 Python 在机器学习、数据分析中最常用的两个库 Pandas 和 Numpy:
 
 - [（译）十分钟的 pandas 入门教程](https://ericfu.me/10-minutes-to-pandas/)
-- [（译）NumPy教程(一)](http://hialex.cn/2014/05/22/(%E8%AF%91)NumPy%E6%95%99%E7%A8%8B(%E4%B8%80)/)
+- [CS231n课程笔记翻译：Python Numpy教程](https://zhuanlan.zhihu.com/p/20878530?refer=intelligentunit)
 - 注：在命令行中输入 `ipython` 即可进入 Python 环境
 
 ## 内容
