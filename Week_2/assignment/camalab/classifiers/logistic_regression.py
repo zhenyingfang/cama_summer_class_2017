@@ -100,7 +100,7 @@ class LogisticRegression(object):
         data points.
 
         Inputs:
-        - X: D x N array of training data. Each column is a D-dimensional point.
+        - X: N x D array of training data. Each column is a D-dimensional point.
 
         Returns:
         - y_pred: Predicted labels for the data in X. y_pred is a 1-dimensional
@@ -117,3 +117,18 @@ class LogisticRegression(object):
         #                           END OF YOUR CODE                              #
         ###########################################################################
         return y_pred
+
+    def one_vs_all(self, X, y, learning_rate=1e-3, num_iters=100,
+            batch_size=200, verbose = True):
+                """
+        Train this linear classifier using stochastic gradient descent.
+        Inputs:
+        - X: A numpy array of shape (N, D) containing training data; there are N
+         training samples each of dimension D.
+        - y: A numpy array of shape (N,) containing training labels;
+        - learning_rate: (float) learning rate for optimization.
+        - num_iters: (integer) number of steps to take when optimizing
+        - batch_size: (integer) number of training examples to use at each step.
+        - verbose: (boolean) If true, print progress during optimization.
+
+        """
