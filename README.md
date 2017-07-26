@@ -1,5 +1,4 @@
 # CAMA-LAB 机器学习暑期研讨班（2017）
-
 ## 介绍
 - 面向对象：准研一学生 + 大一、大二本科生
 - 场地：杭电东校区
@@ -16,11 +15,12 @@
     - 暑期结束
         - 提交大报告、项目总结
         - 选择部分学生，在 2017-18 学年持续参与老师课题
+- 讨论方式
+    - 线下：东区和老师、研究生学长交流
+    - 线上：[Twist](https://twistapp.com/a/17892/) 为主，QQ 群为辅
 - 高强度、严要求、安全第一
 
-
 ## 整体内容安排（暂定）
-
 ### 机器学习
 #### [第一周：热身](Week_1/README.md) ( 7 月 17 日- 7 月 22 日）
 - Python 编程基础
@@ -34,7 +34,7 @@
   - 测度：欧式距离、街区距离、范数、Loss
   - 作业：波士顿房价预测
 
-#### 第二周：分类
+#### [第二周：分类](Week_2/README.md)
 - 算法：k-NN, Logistic Regression, 决策树
 - 作业：
     - MNIST 手写数字识别、CIFAR-10 图像分类
@@ -98,7 +98,7 @@
 --- | --- | --- | --- | ---
  [俞俊](http://camalab.hdu.edu.cn/people/jun_yu/index.html) | [高飞](http://camalab.hdu.edu.cn/people/fei_gao/index.html) | [谭敏](http://camalab.hdu.edu.cn/people/min_tan/index.html) | [余宙](http://camalab.hdu.edu.cn/people/zhou_yu/index.html)  | 朱素果 
  **助教** |  |  |  |  |  
- [罗宇矗](http://www.luoyuchu.com/) | 钱哲琦 | [朱朝阳](http://chaoyangzhu.com/) | 项晨钞 | 施圣洁 
+ [罗宇矗](http://www.luoyuchu.com/) | [钱哲琦](https://github.com/QZQTechMonster) | [朱朝阳](http://chaoyangzhu.com/) | 项晨钞 | 施圣洁 
  张海超 | 孟宣彤 | 郑光剑 | 吴炜晨 |  
 
 
