@@ -64,7 +64,7 @@ class LogisticRegression(object):
             # Sample batch_size elements from the training data and their           #
             # corresponding labels to use in this round of gradient descent.        #
             # Store the data in X_batch and their corresponding labels in           #
-            # y_batch; after sampling X_batch should have shape (dim, batch_size)   #
+            # y_batch; after sampling X_batch should have shape (batch_size, dim)   #
             # and y_batch should have shape (batch_size,)                           #
             #                                                                       #
             # Hint: Use np.random.choice to generate indices. Sampling with         #
