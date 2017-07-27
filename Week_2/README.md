@@ -29,3 +29,26 @@ In this assignment you will practice putting together a simple image classificat
 
 Ref: [CS231n assignment 1](http://cs231n.github.io/assignments2017/assignment1/)
 
+## Kaggle 课内竞赛第一期：井字棋胜负判断
+
+- 比赛入口：[https://inclass.kaggle.com/c/hdu-cama](https://inclass.kaggle.com/c/hdu-cama)
+- 简介
+    - 你需要使用提供的井字棋棋局数据训练一个 ID3 决策树模型，给定一个棋局，能判定 “X” 下棋人的胜负情况。
+    - 不能使用额外的 Package（如 scikit-learn）
+- 时间
+    - 07.28 - 07.31 11:59pm
+
+## 作业提交
+
+截止日期：7 月 29 日（星期六） 18:30
+提交邮箱：gaofei@hdu.edu.cn
+邮件以及附件格式： **暑期研讨班作业-姓名-Week_1**
+
+其他说明：
+
+- 需要提交的文件
+    - assignment 文件夹下的所有 .ipynb 文件以及他们生成的 .html 文件
+- 将这些文件压缩成一个 __.zip__ 文件，并按上面说明的格式命名
+- 你提交的作业版本应与 Github 上的最新版本一致
+
+
