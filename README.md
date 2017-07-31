@@ -105,7 +105,7 @@
 --- | --- | --- | --- | ---
  [俞俊](http://camalab.hdu.edu.cn/people/jun_yu/index.html) | [高飞](http://camalab.hdu.edu.cn/people/fei_gao/index.html) | [谭敏](http://camalab.hdu.edu.cn/people/min_tan/index.html) | [余宙](http://camalab.hdu.edu.cn/people/zhou_yu/index.html)  | 朱素果 
  **助教** |  |  |  |  |  
- [罗宇矗](http://www.luoyuchu.com/) | [钱哲琦](https://github.com/QZQTechMonster) | [朱朝阳](http://chaoyangzhu.com/) | 项晨钞 | 施圣洁 
+ [罗宇矗](http://www.luoyuchu.com/) | [钱哲琦](https://qzqtechmonster.github.io/) | [朱朝阳](http://chaoyangzhu.com/) | 项晨钞 | 施圣洁 
  张海超 | 孟宣彤 | 郑光剑 | 吴炜晨 |  
 
 
