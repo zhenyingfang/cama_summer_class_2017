@@ -15,7 +15,7 @@
 - 比赛入口：[https://inclass.kaggle.com/c/hdu-cama](https://inclass.kaggle.com/c/hdu-cama)
 - 说明
     - 这周你可以使用任何你想使用的库来提升你的模型，如 [scikit-learn](http://scikit-learn.org/stable/documentation.html), [XGBoost](http://scikit-learn.org/stable/documentation.html )
-    - 周末需要提交一份报告，具体格式和内容周三晚发布
+    - 周末需要提交一份报告，具体格式和内容周三晚发布。提交截止时间为周六晚9:00
 - 时间
     - 08.01 - 08.05 11:59pm
 
