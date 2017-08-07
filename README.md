@@ -45,19 +45,19 @@
 - 作业：
     - MNIST 手写数字识别、CIFAR-10 图像分类
     - 采用第一周的特征 + 第二周的方法（多种组合，对比结果）
-    - 井字棋胜负判断
+    - [井字棋胜负判断](https://inclass.kaggle.com/c/hdu-cama) （需动手实现 ID3 决策树算法）
 
 #### [第三周：经典算法](Week_3/README.md) (8 月 1 日 - 8 月 5 日）
 - 支撑向量机 
     - 推荐博文：SVM《理解SVM的三层境界》
 - 图像特征：, SIFT, Visual BoW,
-- 作业：井字棋胜负判断
+- 作业：[井字棋胜负判断](https://inclass.kaggle.com/c/hdu-cama) （允许使用 scikit-learn 等 Package）
 
-#### 第四周：无监督特征学习（Unsupervised Feature Learning, Manifold Learning）
+#### [第四周：无监督学习（Unsupervised Feature Learning, Manifold Learning）](Week_4/README.md) (8 月 7 日 - 8 月 12 日）
 - Andrew Ng 论文
 - 聚类：K-means, K-means++
 - 降维：PCA, ICA, ZCA, LLE, AE
-- 作业：UFL + SVM，进行CIFAR-10图像分类
+- 作业：客户聚类
 - 推荐阅读：pluskid 博客
 
 扩展：
@@ -84,7 +84,7 @@
   - Image Sentiment Classification 
     - 1）Analyze the Model by Confusion Matrix
     - 2）Analyze the Model by Plotting the Saliency Map
-    - 3) Analyze the Model by Visualizing Filters (1%)
+    - 3) Analyze the Model by Visualizing Filters 
     - 4) Semi-supervised Learning
 
 第六周：递归神经网络
