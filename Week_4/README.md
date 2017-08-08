@@ -11,7 +11,7 @@
     - [Choosing the Number of Clusters](https://www.bilibili.com/video/av9912938/#page=81)
 - Machine Learning 2016&2017, 李宏毅，台湾大学
     - [PCA](https://www.bilibili.com/video/av10590361/index_22.html#page=13)
-    - [Neighbor Embedding](https://www.bilibili.com/video/av10590361/index_22.html#page=13)
+    - [Neighbor Embedding](https://www.bilibili.com/video/av10590361/index_13.html#page=14)
 
 ### 文字资料
 - [独立成分分析(ICA)与主成分分析(PCA)的区别](https://www.zhihu.com/question/28845451)
