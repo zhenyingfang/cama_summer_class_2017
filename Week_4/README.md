@@ -11,7 +11,7 @@
     - [Choosing the Number of Clusters](https://www.bilibili.com/video/av9912938/#page=81)
 - Machine Learning 2016&2017, 李宏毅，台湾大学
     - [PCA](https://www.bilibili.com/video/av10590361/index_22.html#page=13)
-    - [Neighbor Embedding](https://www.bilibili.com/video/av10590361/index_22.html#page=13)
+    - [Neighbor Embedding](https://www.bilibili.com/video/av10590361/index_13.html#page=14)
 
 ### 文字资料
 - [独立成分分析(ICA)与主成分分析(PCA)的区别](https://www.zhihu.com/question/28845451)
@@ -42,6 +42,7 @@
 - **customer_segments.ipynb**: 这是最主要的文件，项目中的主要工作都将在这个文件上完成
 - **customers.csv**: 项目数据表。您将需要把这个数据加载到 notebook 里
 - **visuals.py**: 这个 Python 脚本包含 helper 函数，可以让数据和存活结果可视化
+- **rubrics.md**: 作业的评估标准（**完成作业后需要认真对照标准修改作业**）
 
 在终端或命令行，定位到包含项目文件的文件夹，输入命令 `jupyter notebook customer_segments.ipynb` 会打开一个浏览器用来编辑 notebook。按照 notebook 里面的指示回答每一个问题来完成项目。我们还以供了一个 **README** 文件，提供了一些项目需要的额外信息和指导。
 
@@ -53,13 +54,13 @@
 
 其他说明：
 
-- **提交前请按照[评价标准](rubrics.md)完善提升自己的作业答案**
+- **提交前请按照[评价标准](assignment/rubrics.md)完善提升自己的作业答案**
 - 需要提交的文件
     - 包含完整实现且可正常运行的代码的 “customer_segments.ipynb” 并已执行所有代码块和显示了输出
     - 一个由 Jupyter notebook 导出的 HTML 文件，并重命名为 report.html
 - 将这些文件压缩成一个 __.zip__ 文件，并按上面说明的格式命名
 - 你提交的作业版本应与 Github 上的最新版本一致
 
-本周将引入作业互评（时间周日至周一），互评标准见文件 [rubrics.md](rubrics.md)。
+本周将引入作业互评（时间周日至周一），互评标准见文件 [rubrics.md](assignment/rubrics.md)。
 
 
