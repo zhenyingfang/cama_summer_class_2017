@@ -42,7 +42,7 @@ Ref: [CS231n assignment 1](http://cs231n.github.io/assignments2017/assignment1/)
 
 截止日期：7 月 29 日（星期六） 18:30
 提交邮箱：gaofei@hdu.edu.cn
-邮件以及附件格式： **暑期研讨班作业-姓名-Week_1**
+邮件以及附件格式： **暑期研讨班作业-姓名-Week_2**
 
 其他说明：
 

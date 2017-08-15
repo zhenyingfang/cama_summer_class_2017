@@ -57,7 +57,7 @@
 - Andrew Ng 论文
 - 聚类：K-means, K-means++
 - 降维：PCA, ICA, ZCA, LLE, AE
-- 作业：客户聚类
+## - 作业：客户聚类
 - 推荐阅读：pluskid 博客
 
 扩展：
