@@ -50,14 +50,14 @@
 #### [第三周：经典算法](Week_3/README.md) (8 月 1 日 - 8 月 5 日）
 - 支撑向量机 
     - 推荐博文：SVM《理解SVM的三层境界》
-- 图像特征：, SIFT, Visual BoW,
+- 图像特征：SIFT, Visual BoW
 - 作业：[井字棋胜负判断](https://inclass.kaggle.com/c/hdu-cama) （允许使用 scikit-learn 等 Package）
 
 #### [第四周：无监督学习（Unsupervised Feature Learning, Manifold Learning）](Week_4/README.md) (8 月 7 日 - 8 月 12 日）
 - Andrew Ng 论文
 - 聚类：K-means, K-means++
 - 降维：PCA, ICA, ZCA, LLE, AE
-## - 作业：客户聚类
+- 作业：客户聚类
 - 推荐阅读：pluskid 博客
 
 扩展：
@@ -71,23 +71,23 @@
 
 ### 深度学习
 
-第五周：卷积神经网络 CNN
+#### [第五周：神经网络 DNN&CNN](Week_5/README.md) (8 月 21 日 - 8 月 26 日)
 
 - 概念：卷积, Pooling, Stride, Padding, Data Augmentation, Learning Rate, Momentum, Softmax, ReLU, BP, SGD, Cross-Entropy Loss
 - 网络：LeNet, AlexNet, VGGnet, GoogLeNet, ResNet
-- 框架：Keras, Pytorch
-- 作业：
+- 框架：[Keras](https://keras-cn.readthedocs.io/en/latest/)
+- 作业（周三发布）：
   - 自己搭建浅层网络（神经网络+卷积神经网络）
     - 1）自己实现
     - 2）使用框架
     - 两个对比
-  - Image Sentiment Classification 
+  - Image Sentiment Classification
     - 1）Analyze the Model by Confusion Matrix
     - 2）Analyze the Model by Plotting the Saliency Map
     - 3) Analyze the Model by Visualizing Filters 
     - 4) Semi-supervised Learning
 
-第六周：递归神经网络
+#### 第六周：递归神经网络
 
 - 网络：RNN, LSTM
 
