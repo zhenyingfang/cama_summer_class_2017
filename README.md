@@ -71,7 +71,7 @@
 
 ### 深度学习
 
-#### [第五周：神经网络 DNN&CNN](Week_5/README.md) (8 月 21 日 - 8 月 26 日)
+#### [第六周：神经网络 DNN&CNN](Week_6/README.md) (8 月 21 日 - 8 月 26 日)
 
 - 概念：卷积, Pooling, Stride, Padding, Data Augmentation, Learning Rate, Momentum, Softmax, ReLU, BP, SGD, Cross-Entropy Loss
 - 网络：LeNet, AlexNet, VGGnet, GoogLeNet, ResNet
