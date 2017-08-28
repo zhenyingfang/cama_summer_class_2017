@@ -48,5 +48,34 @@
     - [CS231n课程笔记翻译：神经网络笔记3（下）](https://zhuanlan.zhihu.com/p/21798784?refer=intelligentunit)
     - [CS231n课程笔记翻译：卷积神经网络笔记](https://zhuanlan.zhihu.com/p/22038289?refer=intelligentunit)
 
-## 作业（周三晚发布）
+## 作业 - digit recognition
+(本项目内容修改自 Udacity ML Nanodegree [digit_recognition](https://github.com/nd009/digit_recognition))
+
+### 作业提交
+截止日期：8 月 26 日（星期六） 18:30
+提交邮箱：gaofei@hdu.edu.cn
+邮件以及附件格式： **暑期研讨班作业-姓名-Week_6**
+
+### 安装
+
+这个项目推荐使用 **Python 2.7** (使用 Python 3 的同学需要自行解决兼容问题)，需要安装下面这些python包：
+
+- [NumPy](http：//www.numpy.org/)
+- [Pandas](http：//pandas.pydata.org)
+- [Keras](https://keras.io/)
+
+你同样需要安装好相应软件使之能够运行[Jupyter Notebook](http://jupyter.org/)。
+
+### 代码
+
+初始代码包含在 `assignment\digit_recognition.ipynb` 这个notebook文件中。这里面有一些代码已经实现好来帮助你开始项目，但是为了完成项目，你还需要实现附加的功能。
+
+### 运行
+
+在命令行中，确保当前目录为 `assignment` ，运行下列命令：
+
+```jupyter notebook digit_recognition.ipynb```
+
+​这会启动 Jupyter Notebook 并把项目文件打开在你的浏览器中。
+
 
