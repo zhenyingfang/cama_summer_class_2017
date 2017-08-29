@@ -18,6 +18,7 @@
             - 卷积神经网络工程实践技巧与注意点
 - Machine Learning 2017, 李宏毅，台湾大学 
     - [Why Deep?](https://www.bilibili.com/video/av10590361/#page=11)
+
 ## 其他资料
 大家可以开始阅读一些经典论文，可以参照余宙老师精简的这个 Deep Learning 相关论文的推荐列表阅读。 [Deep Learning 推荐列表](../Deep_Learning_Papers.pdf)
 
