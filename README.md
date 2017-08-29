@@ -1,4 +1,16 @@
 # CAMA-LAB 机器学习暑期研讨班（2017）
+
+## 暑期报告总安排
+- 8月23日（周三）：罗宇矗，[强化学习入门](http://www.luoyuchu.com/talk/reinforcement-learning/)
+- 8月28日（周一）：罗宇矗，[深度强化学习简介](http://www.luoyuchu.com/talk/deep-reinforcemnt-learning/)
+- 8月29日（周二）：高飞，图像质量评价及应用
+- 8月30日（周三）：谭敏，基于点击数据的图像识别
+- 8月31日（周四）：余宙，现代 CNN 网络结构演化
+- 9月05日（周二）：朱素果，视觉跟踪方法研究
+- 9月06日（周三）：匡振中，三维形状表达及其应用
+- 9月07日（周四）：余宙，视觉内容自动问答 VQA
+
+
 ## 介绍
 - 面向对象：准研一学生 + 大一、大二本科生
 - 场地：杭电东校区
@@ -26,7 +38,7 @@
         - 标准答案会发布到 Twist 上
         - 非班上成员可以联系 awolegechu@gmail.com 获取答案
 
-## 整体内容安排（暂定）
+## 整体内容安排
 ### 机器学习
 #### [第一周：热身](Week_1/README.md) （7 月 17 日 - 7 月 22 日）
 - Python 编程基础
@@ -72,23 +84,22 @@
 ### 深度学习
 
 #### [第六周：神经网络 DNN&CNN](Week_6/README.md) (8 月 21 日 - 8 月 26 日)
-
 - 概念：卷积, Pooling, Stride, Padding, Data Augmentation, Learning Rate, Momentum, Softmax, ReLU, BP, SGD, Cross-Entropy Loss
 - 网络：LeNet, AlexNet, VGGnet, GoogLeNet, ResNet
 - 框架：[Keras](https://keras-cn.readthedocs.io/en/latest/)
-- 作业（周三发布）：
-  - 自己搭建浅层网络（神经网络+卷积神经网络）
-    - 1）自己实现
-    - 2）使用框架
-    - 两个对比
-  - Image Sentiment Classification
-    - 1）Analyze the Model by Confusion Matrix
-    - 2）Analyze the Model by Plotting the Saliency Map
-    - 3) Analyze the Model by Visualizing Filters 
-    - 4) Semi-supervised Learning
+- 作业：mnist 数字序列识别
 
-#### 第六周：递归神经网络
+#### [第七周：神经网络提升](Week_7/README.md) (8 月 28 日 - 9 月 2 日）
+- 内容
+    - 神经网络的训练
+    - 物体检测与分割
+    - 卷积神经网络的可视化与理解
+    - 训练卷机神经网络的工程技巧
+- 论文阅读：[Deep Learning 推荐阅读论文（余宙）](Deep_Learning_Papers.pdf)
+- 作业：SVHN 数字序列识别 
 
+
+#### 第八周：递归神经网络
 - 网络：RNN, LSTM
 
 - 作业：
@@ -96,7 +107,7 @@
     - 2）Image Captioning，使用框架实现
 
 扩展：
-- 经典应用论文：Deep Learning 推荐阅读列表（余宙）
+- 经典应用论文：[Deep Learning 推荐阅读论文（余宙）](Deep_Learning_Papers.pdf)
 - 生成对抗网络：GAN, CGAN, DualGAN, CircleGAN
 
 ## 主要人员
