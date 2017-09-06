@@ -1,19 +1,19 @@
 # CAMA-LAB 机器学习暑期研讨班（2017）
 
-## 暑期报告总安排
+## 研讨班技术报告总安排
 - 内容
     - 8月23日（周三）：罗宇矗，[强化学习入门](http://www.luoyuchu.com/talk/reinforcement-learning/)
     - 8月28日（周一）：罗宇矗，[深度强化学习简介](http://www.luoyuchu.com/talk/deep-reinforcemnt-learning/)
-    - 8月29日（周二）：高飞，图像质量评价及应用
-    - 8月30日（周三）：谭敏，基于点击数据的图像识别
-    - 8月31日（周四）：余宙，[现代 CNN 网络结构演化](Week_7/slides_zhouyu_CNN_arch_evolution.pdf)
-    - 9月05日（周二）：朱素果，视觉跟踪方法研究
-    - 9月06日（周三）：匡振中，三维形状表达及其应用
-    - 9月07日（周四）：余宙，视觉内容自动问答 VQA
+    - 8月29日（周二）：[高飞](http://camalab.hdu.edu.cn/people/fei_gao/index.html)，[图像质量评价及应用](IQA_PQA_BQA_applications_FeiGao.pdf)
+    - 8月30日（周三）：[谭敏](http://camalab.hdu.edu.cn/people/min_tan/index.html)，基于点击数据的图像识别
+    - 8月31日（周四）：[余宙](http://camalab.hdu.edu.cn/people/zhou_yu/index.html)，[现代 CNN 网络结构演化](Week_7/slides_zhouyu_CNN_arch_evolution.pdf)
+    - 9月05日（周二）：[余宙](http://camalab.hdu.edu.cn/people/zhou_yu/index.html)，视觉内容自动问答 VQA（待上传）
+    - 9月06日（周三）：[匡振中](http://camalab.hdu.edu.cn/people/zhenzhong_kuang/index.html)，[三维形状表达及其应用](kuang_3D_Shape_Representation.pdf)
+    - 9月07日（周四）：[朱素果](http://camalab.hdu.edu.cn/people/suguo_zhu/index.html)，视觉跟踪方法研究
 - 地点：东区会议室
 - 时间：9:00-11:30
-- 安排：(30min 讲解 + 15min 讨论 + 5min 休息) * 3
-- 部分报告内容因涉及一些未发表和计划中的工作不会公开，感兴趣的同学可以与老师联系
+- 安排：(45min 讲解 + 讨论 + 5min 休息) * 3
+- 部分报告内容因涉及一些未发表和计划中的工作没有公开，感兴趣的同学可以与相关老师邮件联系（邮箱地址在老师个人主页），参与实验室相关科研项目.([加入 CAMA-LAB](http://camalab.hdu.edu.cn/joinus.html))
 
 ## 介绍
 - 面向对象：准研一学生 + 大一、大二本科生
@@ -86,7 +86,6 @@
 - 模仿学习 Imitation Learning
 
 ### 深度学习
-
 #### [第六周：神经网络 DNN&CNN](Week_6/README.md) (8 月 21 日 - 8 月 26 日)
 - 概念：卷积, Pooling, Stride, Padding, Data Augmentation, Learning Rate, Momentum, Softmax, ReLU, BP, SGD, Cross-Entropy Loss
 - 网络：LeNet, AlexNet, VGGnet, GoogLeNet, ResNet
@@ -100,15 +99,12 @@
     - 卷积神经网络的可视化与理解
     - 训练卷机神经网络的工程技巧
 - 论文阅读：[Deep Learning 推荐阅读论文（余宙）](Deep_Learning_Papers.pdf)
-- 作业：SVHN 数字序列识别 
+- Kaggle 课堂项目：[SVHN 单数字识别](https://inclass.kaggle.com/c/svhn-recognition) 
 
 
-#### 第八周：递归神经网络
+#### [第八周：递归神经网络](Week_8/README.md)（9 月 4 日 - 9 月 8 日）
 - 网络：RNN, LSTM
-
-- 作业：
-    - 1）由 Cosin 预测 Sin，自己编程实现网络
-    - 2）Image Captioning，使用框架实现
+- 作业：Image Captioning，使用框架实现
 
 扩展：
 - 经典应用论文：[Deep Learning 推荐阅读论文（余宙）](Deep_Learning_Papers.pdf)
@@ -116,12 +112,12 @@
 
 ## 主要人员
 
- **教师** | - | - | - |  -
---- | --- | --- | --- | ---
- [俞俊](http://camalab.hdu.edu.cn/people/jun_yu/index.html) | [高飞](http://camalab.hdu.edu.cn/people/fei_gao/index.html) | [谭敏](http://camalab.hdu.edu.cn/people/min_tan/index.html) | [余宙](http://camalab.hdu.edu.cn/people/zhou_yu/index.html)  | 朱素果 
+ **教师** | - | - | - | - | -
+--- | --- | --- | --- | --- | ---
+ [俞俊](http://camalab.hdu.edu.cn/people/jun_yu/index.html) | [高飞](http://camalab.hdu.edu.cn/people/fei_gao/index.html) | [谭敏](http://camalab.hdu.edu.cn/people/min_tan/index.html) | [余宙](http://camalab.hdu.edu.cn/people/zhou_yu/index.html)  | [朱素果](http://camalab.hdu.edu.cn/people/suguo_zhu/index.html) | [匡振中](http://camalab.hdu.edu.cn/people/zhenzhong_kuang/index.html)
  **助教** |  |  |  |  |  
- [罗宇矗](http://www.luoyuchu.com/) | [钱哲琦](https://qzqtechmonster.github.io/) | [朱朝阳](http://chaoyangzhu.com/) | 项晨钞 | 施圣洁 
- 张海超 | 孟宣彤 | 郑光剑 | 吴炜晨 |  
+ [罗宇矗](http://www.luoyuchu.com/) | [钱哲琦](https://qzqtechmonster.github.io/) | [朱朝阳](http://chaoyangzhu.com/) | 项晨钞 | 施圣洁 | 张海超
+  孟宣彤 | 郑光剑 | 吴炜晨 | | | 
 
 
 
